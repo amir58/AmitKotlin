@@ -23,5 +23,9 @@ class Three() : BaseClass() , I2{
         TODO("Not yet implemented")
     }
 
+    override fun test3() {
+        TODO("Not yet implemented")
+    }
+
 
 }
